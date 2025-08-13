@@ -159,6 +159,15 @@
   border-radius: 10px;
 }
 
-.tooltip {
-  background-color: black;
+.pfp-i .profile-card-tooltip {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--text);
+  color: var(--main-bg);
+}
+
+.pfp-i .profile-card-arrow {
+  display: none;
 }

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a99d0760.css",
-    "main.js": "/static/js/main.509c54ee.js",
-    "static/media/HoorayGroupVer.jpeg": "/static/media/HoorayGroupVer.9be386cce080fa37a36f.jpeg",
-    "static/media/HoorayFelix.JPEG": "/static/media/HoorayFelix.1aee288b498866db30fd.JPEG",
-    "static/media/HoorayHyunjin.JPEG": "/static/media/HoorayHyunjin.c056cde86383c236280c.JPEG",
-    "static/media/HooraySeungmin.JPEG": "/static/media/HooraySeungmin.0df21e1951a8e962a8b1.JPEG",
-    "static/media/HoorayLeeKnow.JPEG": "/static/media/HoorayLeeKnow.86bb55e14d055b280153.JPEG",
-    "static/media/HoorayChangbin.JPEG": "/static/media/HoorayChangbin.6af43b98f19066eced95.JPEG",
-    "static/media/HoorayIN.JPEG": "/static/media/HoorayIN.46e0ac7f5493f334b838.JPEG",
-    "static/media/HoorayBangChan.JPEG": "/static/media/HoorayBangChan.b749c8abe2fd32e94f0f.JPEG",
-    "static/media/HoorayHAN.JPEG": "/static/media/HoorayHAN.8fa540953238b8cc12d1.JPEG",
-    "static/media/KARMA_coin.png": "/static/media/KARMA_coin.8dbd3f582320e23ddedd.png",
-    "index.html": "/index.html",
-    "main.a99d0760.css.map": "/static/css/main.a99d0760.css.map",
-    "main.509c54ee.js.map": "/static/js/main.509c54ee.js.map"
+    "main.css": "/KARMA-Webpage/static/css/main.a99d0760.css",
+    "main.js": "/KARMA-Webpage/static/js/main.1f2ac315.js",
+    "static/media/HoorayGroupVer.jpeg": "/KARMA-Webpage/static/media/HoorayGroupVer.9be386cce080fa37a36f.jpeg",
+    "static/media/HoorayFelix.JPEG": "/KARMA-Webpage/static/media/HoorayFelix.1aee288b498866db30fd.JPEG",
+    "static/media/HoorayHyunjin.JPEG": "/KARMA-Webpage/static/media/HoorayHyunjin.c056cde86383c236280c.JPEG",
+    "static/media/HooraySeungmin.JPEG": "/KARMA-Webpage/static/media/HooraySeungmin.0df21e1951a8e962a8b1.JPEG",
+    "static/media/HoorayLeeKnow.JPEG": "/KARMA-Webpage/static/media/HoorayLeeKnow.86bb55e14d055b280153.JPEG",
+    "static/media/HoorayChangbin.JPEG": "/KARMA-Webpage/static/media/HoorayChangbin.6af43b98f19066eced95.JPEG",
+    "static/media/HoorayIN.JPEG": "/KARMA-Webpage/static/media/HoorayIN.46e0ac7f5493f334b838.JPEG",
+    "static/media/HoorayBangChan.JPEG": "/KARMA-Webpage/static/media/HoorayBangChan.b749c8abe2fd32e94f0f.JPEG",
+    "static/media/HoorayHAN.JPEG": "/KARMA-Webpage/static/media/HoorayHAN.8fa540953238b8cc12d1.JPEG",
+    "static/media/KARMA_coin.png": "/KARMA-Webpage/static/media/KARMA_coin.8dbd3f582320e23ddedd.png",
+    "index.html": "/KARMA-Webpage/index.html",
+    "main.a99d0760.css.map": "/KARMA-Webpage/static/css/main.a99d0760.css.map",
+    "main.1f2ac315.js.map": "/KARMA-Webpage/static/js/main.1f2ac315.js.map"
   },
   "entrypoints": [
     "static/css/main.a99d0760.css",
-    "static/js/main.509c54ee.js"
+    "static/js/main.1f2ac315.js"
   ]
 }

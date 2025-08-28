@@ -2,6 +2,9 @@ import hoorayGroup from "./assets/HoorayGroupVer.jpeg";
 import "./App.css";
 import Navbar from "./Navbar";
 import Profile from "./Profile";
+import SetList from "./SetList";
+import Events from "./Events";
+import Preorder from "./Preorder";
 
 function App() {
   return (
@@ -15,6 +18,9 @@ function App() {
         </div>
       </div>
       <Profile />
+      <SetList />
+      <Events />
+      <Preorder />
     </div>
   );
 }

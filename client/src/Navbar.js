@@ -7,9 +7,15 @@ export default function Navbar() {
       <a href="#profile">
         <p>Profile</p>
       </a>
-      <p>Setlist</p>
-      <p>Events</p>
-      <p>Pre-Order</p>
+      <a href="#setlist">
+        <p>Setlist</p>
+      </a>
+      <a href="#events">
+        <p>Events</p>
+      </a>
+      <a href="#pre-order">
+        <p>Pre-Order</p>
+      </a>
     </div>
   );
 }
